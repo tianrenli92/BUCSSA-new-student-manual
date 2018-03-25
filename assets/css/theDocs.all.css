@@ -840,7 +840,7 @@ body[data-spy] {
   top: 4px;
 }
 
-.sidebar-boxed .sidenav > li > a.open:after {
+.sidebar-boxed .sidenav > li > a.open.has-child:after {
   content: "\f107";
 }
 
@@ -2025,7 +2025,7 @@ h2[id] {
   font-weight: 600;
   letter-spacing: 1px;
   text-transform: uppercase;
-  content: "Table of content";
+  content: "目录";
   color: #ccc;
 }
 

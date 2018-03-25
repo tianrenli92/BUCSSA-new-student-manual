@@ -1,0 +1,5 @@
+﻿<title>layout_template</title>
+<title>BUCSSA新生手册-$CHAPTER_NAME</title>
+
+<a href="$CHAPTER_INDEX.html">$CHAPTER_NAME</a>
+<a class="active" href="$CHAPTER_INDEX.html">$CHAPTER_NAME</a>
