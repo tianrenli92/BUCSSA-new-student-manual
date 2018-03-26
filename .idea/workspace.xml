@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c74c5cc-24f6-4786-9231-a1171b115e1b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/travel.html" afterPath="$PROJECT_DIR$/travel.html" />
-    </list>
+    <list default="true" id="9c74c5cc-24f6-4786-9231-a1171b115e1b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -26,21 +24,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="safety.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/safety.html">
+      <file leaf-file-name="party.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/party.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3877">
-              <caret line="310" column="164" lean-forward="false" selection-start-line="310" selection-start-column="164" selection-end-line="310" selection-end-column="164" />
+            <state relative-caret-position="3220">
+              <caret line="260" column="36" lean-forward="false" selection-start-line="260" selection-start-column="36" selection-end-line="260" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="travel.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="safety.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/safety.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="255" column="0" lean-forward="true" selection-start-line="166" selection-start-column="12" selection-end-line="255" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="travel.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/travel.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="626">
-              <caret line="110" column="45" lean-forward="true" selection-start-line="110" selection-start-column="45" selection-end-line="110" selection-end-column="45" />
+            <state relative-caret-position="285">
+              <caret line="212" column="16" lean-forward="false" selection-start-line="212" selection-start-column="16" selection-end-line="230" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -51,16 +59,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="386">
               <caret line="191" column="12" lean-forward="false" selection-start-line="191" selection-start-column="12" selection-end-line="191" selection-end-column="60" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="food.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/food.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="463">
-              <caret line="185" column="78" lean-forward="false" selection-start-line="185" selection-start-column="0" selection-end-line="186" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -84,6 +82,7 @@
         <option value="$PROJECT_DIR$/layout_template.html" />
         <option value="$PROJECT_DIR$/safety.html" />
         <option value="$PROJECT_DIR$/travel.html" />
+        <option value="$PROJECT_DIR$/party.html" />
       </list>
     </option>
   </component>
@@ -204,17 +203,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.travel.html">
+  <component name="RunManager" selected="JavaScript Debug.party.html">
+    <configuration name="party.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/BUCSSA-new-student-manual/party.html" />
     <configuration name="safety.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/BUCSSA-new-student-manual/safety.html" />
     <configuration name="travel.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/BUCSSA-new-student-manual/travel.html" />
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.safety.html" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.travel.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.party.html" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.travel.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.safety.html" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.party.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.travel.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.safety.html" />
       </list>
     </recent_temporary>
   </component>
@@ -231,12 +233,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522077156757</updated>
-      <workItem from="1522077158519" duration="3328000" />
+      <workItem from="1522077158519" duration="3930000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3328000" />
+    <option name="totallyTimeSpent" value="3930000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="959" extended-state="0" />
@@ -280,6 +282,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/transportation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="191" column="12" lean-forward="false" selection-start-line="191" selection-start-column="12" selection-end-line="191" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/layout_template.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="337">
@@ -290,24 +300,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/safety.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3877">
-          <caret line="310" column="164" lean-forward="false" selection-start-line="310" selection-start-column="164" selection-end-line="310" selection-end-column="164" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/transportation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="191" column="12" lean-forward="false" selection-start-line="191" selection-start-column="12" selection-end-line="191" selection-end-column="60" />
+        <state relative-caret-position="442">
+          <caret line="255" column="0" lean-forward="true" selection-start-line="166" selection-start-column="12" selection-end-line="255" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/travel.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="626">
-          <caret line="110" column="45" lean-forward="true" selection-start-line="110" selection-start-column="45" selection-end-line="110" selection-end-column="45" />
+        <state relative-caret-position="285">
+          <caret line="212" column="16" lean-forward="false" selection-start-line="212" selection-start-column="16" selection-end-line="230" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/party.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3220">
+          <caret line="260" column="36" lean-forward="false" selection-start-line="260" selection-start-column="36" selection-end-line="260" selection-end-column="36" />
           <folding />
         </state>
       </provider>
