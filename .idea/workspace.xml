@@ -19,18 +19,28 @@
       <file leaf-file-name="layout_template.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/layout_template.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="131" column="25" lean-forward="false" selection-start-line="131" selection-start-column="25" selection-end-line="131" selection-end-column="25" />
+            <state relative-caret-position="337">
+              <caret line="136" column="35" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="205" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="safety.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="safety.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/safety.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
-              <caret line="249" column="88" lean-forward="false" selection-start-line="249" selection-start-column="88" selection-end-line="249" selection-end-column="88" />
+            <state relative-caret-position="3877">
+              <caret line="310" column="164" lean-forward="false" selection-start-line="310" selection-start-column="164" selection-end-line="310" selection-end-column="164" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="travel.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/travel.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-561">
+              <caret line="114" column="9" lean-forward="true" selection-start-line="114" selection-start-column="9" selection-end-line="114" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -72,6 +82,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/layout_template.html" />
+        <option value="$PROJECT_DIR$/travel.html" />
         <option value="$PROJECT_DIR$/safety.html" />
       </list>
     </option>
@@ -193,11 +204,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.travel.html">
     <configuration name="safety.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/BUCSSA-new-student-manual/safety.html" />
+    <configuration name="travel.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/BUCSSA-new-student-manual/travel.html" />
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.safety.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.travel.html" />
+    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.safety.html" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.travel.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.safety.html" />
       </list>
     </recent_temporary>
   </component>
@@ -214,12 +231,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522077156757</updated>
-      <workItem from="1522077158519" duration="1227000" />
+      <workItem from="1522077158519" duration="2546000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1227000" />
+    <option name="totallyTimeSpent" value="2546000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="959" extended-state="0" />
@@ -255,14 +272,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/layout_template.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="131" column="25" lean-forward="false" selection-start-line="131" selection-start-column="25" selection-end-line="131" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/food.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="463">
@@ -279,10 +288,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/layout_template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="136" column="35" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="205" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/safety.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="249" column="88" lean-forward="false" selection-start-line="249" selection-start-column="88" selection-end-line="249" selection-end-column="88" />
+        <state relative-caret-position="3877">
+          <caret line="310" column="164" lean-forward="false" selection-start-line="310" selection-start-column="164" selection-end-line="310" selection-end-column="164" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-561">
+          <caret line="114" column="9" lean-forward="true" selection-start-line="114" selection-start-column="9" selection-end-line="114" selection-end-column="9" />
           <folding />
         </state>
       </provider>
